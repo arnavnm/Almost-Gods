@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "category": "t-shirt",
+      "description": "Reworked symbol of the Trinity embroidered in black in front. Short sleeve bio-wash cotton tee in white.Rib knit crewneck collar.Textile logo patch in black and white in back. Made in India",
+      "image": "https://cdn.shopify.com/s/files/1/0379/3964/2508/products/IMG_22631234copy_1728x.jpg?v=1620215643",
+      "price": 3500,
+      "title": "TRINITY TEE",
+      "amount": 1
+    },
+    {
+      "id": 2,
+      "category": "t-shirt",
+      "description": "Reworked symbol of the Trinity embroidered in black in front. Short sleeve bio-wash cotton tee in white.Rib knit crewneck collar.Textile logo patch in black and white in back. Made in India",
+      "image": "https://cdn.shopify.com/s/files/1/0379/3964/2508/products/tee-10_1728x.png?v=1615187484",
+      "price": 7500,
+      "title": "THE LAST SUPPER TEE",
+      "amount": 1
+    },
+
+    {
+      "id": 3,
+      "category": "t-shirt",
+      "description": "Reworked symbol of the Trinity embroidered in black in front. Short sleeve bio-wash cotton tee in white.Rib knit crewneck collar.Textile logo patch in black and white in back. Made in India",
+      "image": "https://cdn.shopify.com/s/files/1/0379/3964/2508/products/final2_1728x.jpg?v=1626178784",
+      "price": 7500,
+      "title": "THE LAST SUPPER TEE",
+      "amount": 1
+    },
+
+    {
+      "id": 4,
+      "category": "t-shirt",
+      "description": "Puff print of the Almost Gods logo in front. Organic cotton tee in charcoal black.Textile logo patch in black and white in back. Made in India.",
+      "image": "https://cdn.shopify.com/s/files/1/0379/3964/2508/products/tee-10_1728x.png?v=1615187484",
+      "price": 3500,
+      "title": "ALMOST GODS PUFF LOGO TEE CHARCOAL BLACK",
+      "amount": 1
+    }
+
+
+  ]
+}
